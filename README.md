@@ -8,12 +8,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 📋 Pre-requisites
 ### Technology
 
-* Next.js v13 
-* TailwindCSS v3 
+* [Next.js v13](https://nextjs.org/) - React Framework
+* [TailwindCSS v3](https://tailwindcss.com/) 
 
 ---
 * ESLint
@@ -21,9 +22,9 @@
 * Git
 ---
 ### 🔗Links
-🧑‍💻Solution URL: https://github.com/gcristia/qr-code-component-frontendmentor-challenge
+🧑‍💻Solution: https://github.com/gcristia/qr-code-component-frontendmentor-challenge
 
-🌐Live Site URL: 
+🌐Live Site: https://qr-code-component-frontendmentor-challenge.vercel.app
 
 ---
 ⌨️with ❤️by [gcristia](https://github.com/gcristia) 😊 
