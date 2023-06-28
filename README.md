@@ -23,7 +23,7 @@
 ### 🔗Links
 🧑‍💻Solution URL: https://github.com/gcristia/qr-code-component-frontendmentor-challenge
 
-🌐Live Site URL: 
+🌐Live Site URL: https://qr-code-component-frontendmentor-challenge.vercel.app
 
 ---
 ⌨️with ❤️by [gcristia](https://github.com/gcristia) 😊 
